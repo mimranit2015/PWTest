@@ -27,6 +27,7 @@ namespace PlaywrightSnipeIT.Tests
         [TestMethod]
         public async Task CreateAndValidateAsset()
         {
+            //test
             string assetTag = RandomDataHelper.RandomAssetTag();
             string assetName = "Macbook Pro 13\"";
 
